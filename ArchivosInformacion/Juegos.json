@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Parques",
+        "tiempo": "120",
+        "cantJugadores": "4",
+        "existencia": "10",
+        "id": 1
+    },
+    {
+        "nombre": "Ajedres",
+        "tiempo": "120",
+        "cantJugadores": "2",
+        "existencia": "4",
+        "id": 2
+    }
+]
